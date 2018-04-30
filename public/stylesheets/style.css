@@ -1,0 +1,27 @@
+body {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-color:#fcfcfc;
+  color: #444;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30vh;
+  line-height: 0%;
+  font-family: 'Proxima Nova';
+}
+
+.title {
+  font-size: 10vh;
+}
+
+.subtitle {
+  font-size: 5vh;
+}
+
+.number {
+  font-size: 10vh;
+}
