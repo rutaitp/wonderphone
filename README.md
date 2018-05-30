@@ -7,6 +7,9 @@ It is a research project exploring curiosity and adult learning, where adults ar
 
 More about research and initial project: [https://www.mycupoftea.org/wonder-corner](https://www.mycupoftea.org/wonder-corner).
 
+Here I'm demoing project at Fullstack Academy of Code:
+[![Wonder Phone](https://img.youtube.com/vi/adEx1ni1pzU/0.jpg)](https://www.youtube.com/watch?v=adEx1ni1pzU)
+
 ## Technology used
 This version is built using Twilio and Node.js, Express.js.
 See Twilio's documentation for more info: [https://www.twilio.com/docs/voice/tutorials/ivr-phone-tree-node-express](https://www.twilio.com/docs/voice/tutorials/ivr-phone-tree-node-express).
